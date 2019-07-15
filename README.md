@@ -19,3 +19,8 @@
 
 1. Problem Description:https://www.hackerrank.com/challenges/repeated-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup
 2. Solution: RepeatedString.py
+
+### 2D Array - DS:
+
+1. Problem Description:https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays
+2. Solution: 2DArray.py
