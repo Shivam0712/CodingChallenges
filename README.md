@@ -1,4 +1,4 @@
-eneccccnvnlrrhterffftbfultklhrrfdrgrbgnjjvjf
+eneccccnvnlrcgjhikuglinbrtbdlvgliegeriibnihj
 # CodingChallenges
 
 ### Socks Merchant: 
